@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="104" viewBox="0 0 400 104" role="img" aria-label="codebrew">
+  <g fill="none" stroke="#E8964A" stroke-linecap="round" stroke-width="4.5">
+    <path d="M33 26c-4-4 4-8 0-12s4-8 0-12"/>
+    <path d="M47 26c-4-4 4-8 0-12s4-8 0-12"/>
+    <path d="M61 26c-4-4 4-8 0-12s4-8 0-12"/>
+    <path d="M74 50h7a12 12 0 0 1 0 24h-7" stroke-width="7"/>
+  </g>
+  <rect x="14" y="36" width="62" height="56" rx="12" fill="#E8964A"/>
+  <g fill="none" stroke="#1B1D22" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5">
+    <path d="M29 53l11 9-11 9"/>
+    <path d="M47 75h15"/>
+  </g>
+  <text x="112" y="76" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5"><tspan fill="#F3F4F6">code</tspan><tspan fill="#E8964A">brew</tspan></text>
+</svg>

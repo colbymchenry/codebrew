@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="924" height="200" viewBox="0 0 924 200" role="img" aria-label="How codebrew works: paste one line, it sets everything up, then run the app and change it with your AI agent.">
+<rect x="12" y="12" width="262" height="176" rx="16" fill="#FFFFFF" stroke="#D8DEE4"/>
+<circle cx="52" cy="56" r="24" fill="#E8964A" fill-opacity="0.14"/>
+<g fill="none" stroke="#E8964A" stroke-width="3" stroke-linecap="round"><path d="M48 60l8-8"/><path d="M51 47l3-3a6.5 6.5 0 0 1 9.2 9.2l-3 3"/><path d="M53 65l-3 3a6.5 6.5 0 0 1-9.2-9.2l3-3"/></g>
+<text x="250" y="64" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D8DEE4">1</text>
+<text x="36" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1B1D22">Paste one line</text>
+<text x="36" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">Point codebrew at a project</text>
+<text x="36" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">on GitHub.</text>
+<path d="M288 100.0h29m-8-8l8 8-8 8" fill="none" stroke="#AEB6BF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="331" y="12" width="262" height="176" rx="16" fill="#FFFFFF" stroke="#D8DEE4"/>
+<circle cx="371" cy="56" r="24" fill="#E8964A" fill-opacity="0.14"/>
+<g fill="none" stroke="#E8964A" stroke-width="3" stroke-linejoin="round"><path d="M371 43l12 6v14l-12 6-12-6v-14z"/><path d="M359 49l12 6 12-6M371 55v14"/></g>
+<text x="569" y="64" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D8DEE4">2</text>
+<text x="355" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1B1D22">It sets everything up</text>
+<text x="355" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">The right tools, settings and</text>
+<text x="355" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">steps, kept in one folder.</text>
+<path d="M607 100.0h29m-8-8l8 8-8 8" fill="none" stroke="#AEB6BF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="650" y="12" width="262" height="176" rx="16" fill="#FFFFFF" stroke="#D8DEE4"/>
+<circle cx="690" cy="56" r="24" fill="#E8964A" fill-opacity="0.14"/>
+<g fill="#E8964A"><path d="M688 42l3.2 8.8 8.8 3.2-8.8 3.2-3.2 8.8-3.2-8.8-8.8-3.2 8.8-3.2z"/><path d="M701 60l1.6 4.4 4.4 1.6-4.4 1.6-1.6 4.4-1.6-4.4-4.4-1.6 4.4-1.6z"/></g>
+<text x="888" y="64" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#D8DEE4">3</text>
+<text x="674" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1B1D22">Run it, change it</text>
+<text x="674" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">Your app runs, and your AI</text>
+<text x="674" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#57606A">agent is ready to help.</text>
+</svg>
